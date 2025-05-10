@@ -6,3 +6,4 @@ langchain
 python-dotenv
 langchain-openai
 langchain-community
+python-docx
